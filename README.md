@@ -1,3 +1,6 @@
+# TO get a preview of the projet click the link given below
+(https://saikumarpedada.github.io/reactjs-weather/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
